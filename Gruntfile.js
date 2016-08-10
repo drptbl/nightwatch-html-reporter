@@ -13,7 +13,7 @@ module.exports = function(grunt) {
       },
       gruntfile: {
         src: 'Gruntfile.js'
-      },
+      },sdfsdfsdf
       lib: {
         src: ['lib/**/*.js']
       },
